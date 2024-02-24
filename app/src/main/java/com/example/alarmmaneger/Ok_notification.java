@@ -16,7 +16,6 @@ public class Ok_notification extends AppCompatActivity {
 
     AlertDialog.Builder adb;
     static boolean flag;
-    static boolean snooze_clicked;
     @SuppressLint({"ApplySharedPref", "SetTextI18n"})
     @Override
     protected void onCreate(Bundle savedInstanceState) {
